@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sammy2023
 - 👀 My interest for computer science is in frontend design and web development.
-- 🌱 I'm currently working on as an assistant on statistical data analysis at Boston College
-- 💞️ In terms of collaboration, I would love to work in the software developing and engineering part.
+- 🌱 I'm currently studying full time at Boston College in CS and studio art.
+- 💞️ In terms of collaboration, I would love to work on design-oriented projects.
 - 📫 Email: leedzc@bc.edu 
 
 <!---
