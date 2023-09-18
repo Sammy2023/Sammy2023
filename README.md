@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sammy2023
+- 👋 Hi, I’m Sammy Lee
 - 👀 My interest for computer science is in frontend design and web development.
 - 🌱 I'm currently studying full time at Boston College in CS and studio art.
 - 💞️ In terms of collaboration, I would love to work on design-oriented projects.
